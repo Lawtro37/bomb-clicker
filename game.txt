@@ -1,3 +1,4 @@
 Let's make a game!
+
 	name: bomb clicker
 	by: lawtro
